@@ -1,0 +1,55 @@
+div.form{
+    background: linear-gradient(45deg,dodgerblue,white,purple);
+    width: 12cm;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+
+label{
+    width: 140px;
+    display:inline-block;
+    text-align: right;
+    margin: 0.5cm;
+    font-size: 16px;
+    font-weight: bolder;
+    
+    
+}
+
+input{
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+    width: 7cm;
+}
+
+input#submit{
+    margin-top: 7px;
+    color: rgb(250, 247, 247);
+    font-weight: bold;
+    padding: 4px;
+    background-color: rgb(15, 15, 15);
+}
+
+select{
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+    width: 7cm;
+    font-style: normal;
+}
+select:required:invalid {
+    color: #666;
+  }
+  option[value=""][disabled] {
+    display: none;
+  }
+  option {
+    color: #000;
+  }
+
