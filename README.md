@@ -50,4 +50,4 @@ Deployed the ML model in AWS Elastic BeanStalk :  http://studentmarkprediction-e
 
 ### Exploratory Data Analysis Notebook :
 
-Link : <a href="mlproject/notebook/EDA STUDENT PERFORMANCE.ipynb" target="_blank">EDA Notebook</a>
+Link : <a href="notebook/EDA STUDENT PERFORMANCE.ipynb" target="_blank">EDA Notebook</a>
